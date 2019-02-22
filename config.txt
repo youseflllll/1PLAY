@@ -1,0 +1,6 @@
+﻿token=التوكن 
+owner=ادي بتعك 
+prefix= t
+game= !thelp
+stayinchannel=true
+songinstatus=true 
